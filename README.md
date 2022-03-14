@@ -8,21 +8,21 @@
 * How is the district summary affected? By removing the ninth grade reading and math tests we removed a total of 461 students from the district summary. In turn if you look at the pictures below you will see that the changes in the average scores and overall passing percentage changed very slightly. The overall passing percentage for the 15 total schools only went up by .1%. 
 
 - Before removing ninth grade
-![](Resources/before_removing_ninth.png)
+![](Resources/before_removing_ninth.PNG)
 
 - After removing ninth grade
-![](Resources/after_removing_ninth.png)
+![](Resources/after_removing_ninth.PNG)
 
 * How is the school summary affected? In our original analysis Thomas High School had a 91% overall passing percentage for all students prior to the evidence of academic dishonesty. Once the ninth grade test scores were removed we can see in the image below that the percentage dropped drastically to 69%
-![](Resources/ths_school_summary.png)
+![](Resources/ths_school_summary.PNG)
 
 * Comparing Thomas High School after replacing the ninth graders math and reading scores to other scores in the distrcit. They did drop their perfomance by a lot but it has left them right in the middle of the other schools. They did not fall into the bottom five schools in the district but that also are not in the top five schools. 
-![](Resources/school_summary.png)
-![](Resources/top_schools_prior.png)
+![](Resources/school_summary.PNG)
+![](Resources/top_schools_prior.PNG)
 
 * How did replacing ninth-grade scores affect Math and Reading Scores by grade? When doing our original analysis the 9th grade test scores for reading was 83.7 and math was 83.7. By removing these test scores we replaced them  "Nan" as shown below. This shows that there is a missing number in our dataset. 
-![](Resources/math_by_grade.png)
-![](Resources/reading_by_grade.png)
+![](Resources/math_by_grade.PNG)
+![](Resources/reading_by_grade.PNG)
 
 
 * How did replacing ninth-grade scores affect scores by school spending? The scores by school spending was not affected by removing the test scores for 9th grade Thomas High School. The school remained in the $630-$644 spending ranges per student. 
