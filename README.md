@@ -21,6 +21,7 @@
 ![](Resources/top_schools_prior.PNG)
 
 * How did replacing ninth-grade scores affect Math and Reading Scores by grade? When doing our original analysis the 9th grade test scores for reading was 83.7 and math was 83.7. By removing these test scores we replaced them  "Nan" as shown below. This shows that there is a missing number in our dataset. 
+
 ![](Resources/math_by_grade.PNG)
 ![](Resources/reading_by_grade.PNG)
 
